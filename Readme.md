@@ -14,3 +14,8 @@ Sample date to train and test can be found in data/unet folder.
 Feel free to adapt the code to your needs.
 
 Cheer!
+
+
+Sample output:
+
+![alt text](unet_darknet/data/unet/test/1.png)
