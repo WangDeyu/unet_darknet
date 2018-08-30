@@ -1,4 +1,4 @@
-This is my attempt to implement a segmenter on darknet framework.
+This is my attempt to implement a semantic segmentation network on darknet framework.
 
 I implement a modified version of U-Net (https://arxiv.org/abs/1505.04597) to detect road surface.
 
