@@ -3,6 +3,7 @@ This is my attempt to implement a segmenter on darknet framework.
 I implement a modified version of U-Net (https://arxiv.org/abs/1505.04597) to detect road surface.
 
 Input to model: 224 x 224 x 3 images
+
 Output: 224 x 224 binary label
 
 I added a bunch of code to the darknet source files for data pre processing.
