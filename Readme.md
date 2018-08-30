@@ -19,3 +19,4 @@ Cheer!
 Sample:
 
 ![input image](data/unet/test/1.png)
+![output image](data/unet/result/1.png)
