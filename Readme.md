@@ -14,7 +14,7 @@ Sample data to train and test can be found in data/unet folder.
 
 Feel free to adapt the code to your needs.
 
-Cheer!
+Cheers!
 
 
 Sample:
