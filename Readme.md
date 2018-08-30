@@ -10,7 +10,7 @@ I added a bunch of code to the darknet source files for data pre processing.
 
 I recommend using cscope to browse through the code, makes life easier!
 
-Sample date to train and test can be found in data/unet folder.
+Sample data to train and test can be found in data/unet folder.
 
 Feel free to adapt the code to your needs.
 
